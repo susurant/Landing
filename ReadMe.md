@@ -1,7 +1,7 @@
 # 💫About Me :
-🔭 I’m currently working on my Data and Cloud Engineering skills.
-🌱 I’m currently learning more about Data Science.
-🤔 I’m looking for help with Exploring New Technologies.
+🔭 I’m currently working on my Data and Cloud Engineering skills. 
+🌱 I’m currently learning more about Data Science. 
+🤔 I’m looking for help with Exploring New Technologies. 
 📫 How to reach me: Email - kaitlinmariehaines@gmail.com
 
 # 💻Tech Stack
